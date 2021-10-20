@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: CCI revamp # Website name
+baseurl: 'cci-dev.org' # Website URL
+copyright: 'CC-BY-SA 4.0 Defenders of Wildlife' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
